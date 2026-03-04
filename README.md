@@ -24,4 +24,14 @@ https://github.com/TheFrogenSource
 
 Here: https://github.com/TheFrogenSource/TheFrogWebThing
 
+### Webiste from the Team:
+
+@elsqued
+
+https://elsqued.neocities.org/
+
+@Stormwindsky
+
+Stormwindsky.com & Stormwindsky.uk & also https://stormwindsky.github.io/scratch-gui/
+
 ### 𓆏
