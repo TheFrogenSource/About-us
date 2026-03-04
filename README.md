@@ -4,9 +4,9 @@ A group of gummy frogs in a MONARCHY! Don't let the yellow bear know...
 
 (Formerly the "Baldi's Basics Scratch Community".)
 
-## Our Gamejolt Community Group:
+## Our Community Group:
 
-https://gamejolt.com/c/BBS-e3mtn9
+Gamejolt: https://gamejolt.com/c/BBS-e3mtn9
 
 ## Servers:
 
@@ -16,3 +16,12 @@ Discord Server: https://discord.gg/wbmrCXHhNn
 
 Minecraft Server (1.8.9): https://frogsquadprecombat.aternos.me/
 
+## Our Github:
+
+https://github.com/TheFrogenSource
+
+## Our Website is under MIT License:
+
+Here: https://github.com/TheFrogenSource/TheFrogWebThing
+
+### 𓆏
