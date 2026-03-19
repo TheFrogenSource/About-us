@@ -24,7 +24,7 @@ https://github.com/TheFrogenSource
 
 Here: https://github.com/TheFrogenSource/TheFrogWebThing
 
-### Webiste from the Team:
+### Website from the Team:
 
 @elsqued
 
