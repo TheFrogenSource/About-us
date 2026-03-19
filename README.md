@@ -41,6 +41,8 @@ PLEASE NOTE THAT TFS IS A GROUP OF The Frog Squad MEMBERS WHO WISH TO PUBLISH TH
 
 and every repository must be under a Free/Open Source license; if there is one that does not have a license added, our Administration will automatically choose the license that best suits it
 
+and all templates must be licensed under CC0 1.0
+
 
 
 ### 𓆏
