@@ -34,4 +34,13 @@ https://elsqued.neocities.org/
 
 Stormwindsky.com & Stormwindsky.uk & also https://stormwindsky.github.io/scratch-gui/
 
+## Rules for the members of The Frogen Source:
+
+If you are a member of TheFrogenSource and want to create repositories on GitHub, please follow these rules
+PLEASE NOTE THAT TFS IS A GROUP OF The Frog Squad MEMBERS WHO WISH TO PUBLISH THEIR REPOSITORIES SO THAT OTHER MEMBERS OF THEIR TEAM CAN UPDATE THEM FOR COLLABORATIVE PURPOSES, SO DO NOT USE IT TO CREATE A REPOSITORY FOR YOURSELF ALONE
+
+and every repository must be under a Free/Open Source license; if there is one that does not have a license added, our Administration will automatically choose the license that best suits it
+
+
+
 ### 𓆏
