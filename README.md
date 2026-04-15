@@ -24,6 +24,10 @@ https://github.com/TheFrogenSource
 
 Here: https://github.com/TheFrogenSource/TheFrogWebThing
 
+## Our ''Wiki''
+
+Here: https://thefrogensource.github.io/TheFrogWebThing/thefrogwiki
+
 ### Website from the Team:
 
 @elsqued
