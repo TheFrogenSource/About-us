@@ -4,8 +4,7 @@ Here you can create your own nerdy guides
 
 ## List
 
-### Turning you Kubuntu more like smart tv
-
+//List//
 The link coming soon :)
 
 
