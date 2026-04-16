@@ -10,11 +10,21 @@ Gamejolt: https://gamejolt.com/c/BBS-e3mtn9
 
 ## Servers:
 
+Our official website: https://thefrogensource.github.io/TheFrogWebThing/
+
 Fluxer Server: https://fluxer.gg/5T0nHoRN
 
 Discord Server: https://discord.gg/wbmrCXHhNn
 
-Minecraft Server (1.8.9): https://frogsquadprecombat.aternos.me/
+Minecraft Servers ( Forge 1.8.9):
+
+- Survival: frogsquadprecombat.aternos.me
+
+- Creative: frogsquadCREATIVE.aternos.me
+
+Polytoria Group:
+
+https://polytoria.com/guilds/6045
 
 ## Our Github:
 
